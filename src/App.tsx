@@ -1,5 +1,5 @@
 import { Box, Button, VStack, Heading, Textarea, useToast, HStack } from '@chakra-ui/react';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import axios from 'axios';
 import SavedSummaries from './SavedSummaries';
 
